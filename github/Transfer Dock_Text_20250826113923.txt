@@ -1,0 +1,1 @@
+lambda automate ec2.txt
